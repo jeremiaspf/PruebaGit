@@ -3,8 +3,9 @@
 //  PruebaGit
 //
 //  Created by Jeremías Pérez on 13/2/18.
-//  Copyright © 2018 Jeremías Pérez. All rights reserved.
+//  Copyright © 2018 Jeremías Pérez. All rights reserved...
 //
+// este comentario es para probar git
 
 import UIKit
 
